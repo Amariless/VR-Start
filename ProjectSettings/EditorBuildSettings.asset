@@ -6,56 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/,Game/Scenes/meta/BodyPoseDetectionExamples.unity
-    guid: 1ca78ad72db9b1442aa70e62159d7b0d
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/ComprehensiveRigExample.unity
-    guid: 54c4748b1aa49254eb097d08ae3cf124
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/ConcurrentHandsControllersExamples.unity
-    guid: 6f42185ede12ea1499ff3e81a1a5a7c8
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/DistanceGrabExamples.unity
-    guid: 6992b5f774c53b14ea6869d5ae97ba77
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/GestureExamples.unity
-    guid: 2511cc75bd48bb94ea02395ef62ca3a0
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/HandGrabExamples.unity
-    guid: 019bb3f22cdaa26458c8c9d2dc4757bf
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/HandGrabUseExamples.unity
-    guid: 5d52ee9cbead5eb4ca0310323384f2db
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/HandOnHandInteraction.unity
-    guid: 7179aec59b1cc1545aa96e342919d213
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/LocomotionExamples.unity
-    guid: 236555f0a83e9514cbb79c95b7da934c
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/PanelWithManipulators.unity
-    guid: c4cab679b60c4034ca6ea8a648441a24
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/PokeExamples.unity
-    guid: 60756292215ceb74091303a838e2ab1a
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/PoseExamples.unity
-    guid: 19545573c6384b64997ef21fa09a9a18
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/RayExamples.unity
-    guid: 584aef5b68720334eb0517225b3d571b
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/SnapExamples.unity
-    guid: 7b7d14d63f7a637468a79d4c1bde098c
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/TouchGrabExamples.unity
-    guid: 0b6bd1138b15b3044b688ae686b4bd83
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/TransformerExamples.unity
-    guid: 13022cf974dc5cd4d8812f89c1b17076
-  - enabled: 1
-    path: Assets/,Game/Scenes/meta/UISetExamples.unity
-    guid: acd4f1bf863a9f84db437aa92f7072e7
+    path: Assets/CoffeeShopStarterPack/Scenes/DecorativeScene.unity
+    guid: f3e602352418f4efb888071ff0f28f12
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 060dfe4ff7eb3df4e94f5f7f6375582a,
       type: 2}
